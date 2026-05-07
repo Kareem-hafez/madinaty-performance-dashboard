@@ -16,4 +16,4 @@ Interactive Power BI dashboard for real estate sales analysis
 - SQL
 
 ## Dashboard Preview
-![Dashboard Screenshot](Screenshot 2026-05-07 131121.png)
+![Dashboard Screenshot](Screenshot_2026-05-07_131121.png)
